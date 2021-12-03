@@ -1,0 +1,6 @@
+max_depth = 10000
+max_results = 1000000
+max_errors = 5000000
+url = "https://telegram.org"
+app_timeout = 10
+req_timeout = 5
